@@ -1,4 +1,4 @@
-# Домашние задания — Python. Основы языка
+# Домашние задания — Python
 
 Этот репозиторий содержит решения домашних заданий, выполненных в рамках изучения языка Python по курсу в школе [**Нетологии**](https://netology.ru/) - [***Fullstack-разработчик на Python***](https://netology.ru/programs/fullstack-python-dev)
 
