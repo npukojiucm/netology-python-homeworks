@@ -10,9 +10,9 @@
 
 | №   | Тема                                                                                          |
 |:---:|-----------------------------------------------------------------------------------------------|
-| 1.1 | [Объекты и классы. Инкапсуляция, наследование и полиморфизм](./01_classes/README.md)          |
-| 1.2 | [Работа с файлами. Контекстный менеджер. Обработка исключений](./02_files/README.md)          |
-| 1.3 | [Работа с библиотекой `requests`, HTTP-запросы, API](./03_http.requests/README.md)            |
+| 1.1 | [Объекты и классы. Инкапсуляция, наследование и полиморфизм](./01_classes)          |
+| 1.2 | [Работа с файлами. Контекстный менеджер. Обработка исключений](./02_files)          |
+| 1.3 | [Работа с библиотекой `requests`, HTTP-запросы, API](./03_http.requests)            |
 | 1.4 | [Курсовая работа: «Резервное копирование»](https://github.com/npukojiucm/vk-to-yadisk-backup) |
 
 ---
@@ -21,10 +21,10 @@
 
 | №   | Тема                                                                                          |
 |:---:|-----------------------------------------------------------------------------------------------|
-| 2.1 | [Работа с PostgreSQL. Создание БД](./04_db/01_creation/README.md)                             |
-| 2.2 | [Проектирование БД. Связи. 3НФ](./04_db/02_design/README.md)                                  |
-| 2.3 | [Select-запросы, выборки из одной таблицы](./04_db/03_dml/README.md)                          |
-| 2.4 | [Группировки, выборки из нескольких таблиц](./04_db/03_dml/README.md)                         |
+| 2.1 | [Работа с PostgreSQL. Создание БД](./04_db/01_creation)                             |
+| 2.2 | [Проектирование БД. Связи. 3НФ](./04_db/02_design)                                  |
+| 2.3 | [Select-запросы, выборки из одной таблицы](./04_db)                          |
+| 2.4 | [Группировки, выборки из нескольких таблиц](./04_db)                         |
 
 ---
 
@@ -32,12 +32,12 @@
 
 | №   | Тема                                                                                          |
 |:---:|-----------------------------------------------------------------------------------------------|
-| 3.1 | [Import. Module. Package](./05_Import.Module.Package/README.md)                               |
-| 3.2 | [Regular expressions](./06_Regexp/README.md)                                                  |
-| 3.3 | [Web-scrapping](./07_Web-scrapping/README.md)                                                 |
-| 3.4 | [Iterators. Generators. Yield](./08_Iterators.Generators.Yield/README.md)                     |
-| 3.5 | [Decorators](./09_Decorators/README.md)                                                       |
-| 3.6 | [Tests](./10_Tests/README.md)                                                                 |
-| 3.7 | [Подготовка к собеседованию](./11_Interview/README.md)                                        |
+| 3.1 | [Import. Module. Package](./05_Import.Module.Package)                               |
+| 3.2 | [Regular expressions](./06_Regexp)                                                  |
+| 3.3 | [Web-scrapping](./07_Web-scrapping)                                                 |
+| 3.4 | [Iterators. Generators. Yield](./08_Iterators.Generators.Yield)                     |
+| 3.5 | [Decorators](./09_Decorators)                                                       |
+| 3.6 | [Tests](./10_Tests)                                                                 |
+| 3.7 | [Подготовка к собеседованию](./11_Interview)                                        |
 
 ---
