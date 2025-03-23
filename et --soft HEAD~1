@@ -1,0 +1,168 @@
+[33mcommit 3e4a975934039bd9dc4a2856b672ce9f6ab9431a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aleksandr Platcev <a.platcev@ya.ru>
+Date:   Sun Mar 23 13:38:50 2025 +0300
+
+    docs: add README to each task, update root README and folder names
+
+[33mcommit d8b183cc2d83cbbd4058f2ecf8819df06be954e8[m
+Author: Александр <a.platcev@ya.ru>
+Date:   Fri May 20 21:14:11 2022 +0300
+
+    add stack homework
+
+[33mcommit 0299d837128fe1a484f3c73b64f172096fa2ec25[m
+Author: Александр <a.platcev@ya.ru>
+Date:   Sun May 15 20:58:26 2022 +0300
+
+    add tests homework
+
+[33mcommit 3778d3d2b5f9bf4192058c178a3866a954f16928[m
+Author: Александр <a.platcev@ya.ru>
+Date:   Sun May 15 20:55:40 2022 +0300
+
+    add tests homework
+
+[33mcommit 3f88c85e627c17efde9e8cba39a3ee2829f343e0[m
+Author: Александр <a.platcev@ya.ru>
+Date:   Sun May 15 20:36:08 2022 +0300
+
+    add tests homework
+
+[33mcommit 61009c246f9ab07e5450694f278efb65c1b051e6[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Thu May 12 17:34:42 2022 +0300
+
+    add decorators
+
+[33mcommit 8405cbd419c2fd42095b63e0b5831512d86444d1[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Thu May 12 17:32:46 2022 +0300
+
+    add decorators
+
+[33mcommit 1923c72fc97663224afd39bbac28029763f237c9[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Mon May 9 17:55:42 2022 +0300
+
+    add Iterator
+
+[33mcommit 4cc5381cf8f816f86777b6eb18256d86dd76f109[m
+Merge: bd78c12 1fc4ba0
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Mon May 9 14:41:04 2022 +0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit bd78c120b945beae1679ab54e2948bf89b83d7e2[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Mon May 9 14:40:16 2022 +0300
+
+    add Iterator
+
+[33mcommit 1fc4ba0a0e517001f5303fc8c6fada19198ffaba[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Thu May 5 00:16:46 2022 +0300
+
+    Delete Regular directory
+
+[33mcommit ee1ea0d82541033e6417774766b1263756e3c9be[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Thu May 5 00:15:25 2022 +0300
+
+    add homewrok
+
+[33mcommit dda196c66e68c8aa0237155547c1b66c658f05de[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Tue May 3 08:33:14 2022 +0300
+
+    add homewrok
+
+[33mcommit c4ebd234b8bc08605445da4525a63c5ca26dd2bf[m
+Author: Alexandr Platcev <a.platcev@ya.ru>
+Date:   Thu Apr 28 20:09:02 2022 +0300
+
+    add homewrok
+
+[33mcommit 9e5e5f97a7fa0dfd158a8abf5d3cac9c12f6f091[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Fri Apr 22 22:42:53 2022 +0300
+
+    Add files via upload
+
+[33mcommit 4853fdaa999e32c46ed1a30716ed8a5c674eefb1[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Fri Apr 15 00:53:47 2022 +0300
+
+    Add files via upload
+
+[33mcommit f55a6a38b2aff347685ae83e426596bb573f1965[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Fri Apr 15 00:53:12 2022 +0300
+
+    Delete homework_3_SELECT.py
+
+[33mcommit a77baa6e5e7c0febf37707b2f264b82a1f5416f9[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Fri Apr 15 00:52:54 2022 +0300
+
+    Add files via upload
+
+[33mcommit 8e1b21bf9adc862b6755607d35545d4b3b7bb96f[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Fri Apr 15 00:44:52 2022 +0300
+
+    Delete text
+
+[33mcommit db39df558cb41eb5c619bd2a18694e4941edfa2d[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Fri Apr 15 00:44:29 2022 +0300
+
+    Add files via upload
+
+[33mcommit 6387fe7e2b2413554868526023b8dc4d48322841[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Fri Apr 15 00:44:03 2022 +0300
+
+    Create text
+
+[33mcommit 84673dd4431ae8caf890d3e78647b6a29902158d[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Mon Apr 11 07:43:07 2022 +0300
+
+    Delete homework2.sql
+
+[33mcommit 9353d56d3155b478b230b0c5d3b69c734bc27895[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Mon Apr 11 07:42:25 2022 +0300
+
+    Add files via upload
+
+[33mcommit 7d55aa96d74b7fa37d14076ecb9173c6efe271b7[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Fri Apr 8 00:19:01 2022 +0300
+
+    Add files via upload
+
+[33mcommit c9b7d4088c45b1a188accb54fb98e19f97ed40e0[m
+Author: npukojiucm <98121962+npukojiucm@users.noreply.github.com>
+Date:   Tue Apr 5 08:22:06 2022 +0300
+
+    Create homework_sql.sql
+
+[33mcommit da304cc25f3130fb460bf9614233ce869642b0c0[m
+Author: Alexandr Platcev <a.platcev@ya.ru>
+Date:   Thu Feb 24 21:55:00 2022 +0300
+
+    Add new file HW
+
+[33mcommit 74c1634fa45220bd6d581e624e32aa03838ae8a3[m
+Author: Alexandr Platcev <a.platcev@ya.ru>
+Date:   Tue Feb 22 00:14:17 2022 +0300
+
+    Add new file HW
+
+[33mcommit c7848c3964b9e93d46892e514460f270f2aa3935[m
+Author: Alexandr Platcev <a.platcev@ya.ru>
+Date:   Wed Feb 16 23:12:48 2022 +0300
+
+    Init rep
